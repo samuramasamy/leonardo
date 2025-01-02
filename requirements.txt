@@ -1,4 +1,3 @@
 streamlit==1.26.0
 requests==2.31.0
-psycopg2-binary==2.9.7
-leonardo-api  # If this is a custom package, you'll need to install it locally or specify its source
+leonardo-api 
