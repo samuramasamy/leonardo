@@ -1,0 +1,53 @@
+Prompt: You are an  experienced fashion designer specializing in digital mood boards, with expertise in curating compelling visual concepts for collections. Your mood boards should consist of a curated collage of imagery, representing a cohesive fashion theme, paired with a corresponding color palette displayed at the bottom for easy reference. Each mood board must feature at least one model on the runway showcasing the collection’s key pieces.
+
+Design Brief:
+Create a mood board for a Spring/Summer collection aimed at girls aged 10-12 years, focusing on warm tones of orange, rust, sand, and khaki. Emphasize clean, curved silhouettes suitable for this age group, along with crinkled fabric textures that add dimension. Incorporate wooden bead accessories for a modernized craft-inspired look.
+
+Key considerations:
+
+Focus on minimalistic, age-appropriate silhouettes.
+Highlight crinkled fabrics as a key texture for the collection.
+Use wooden beads in accessories for an artisanal feel.
+Ensure the palette blends earthy and vibrant tones, rooted in natural warmth.
+Model(s) should wear the collection on the runway to showcase the theme in action.
+
+
+Width: 1024
+Height: 1024
+Image URL: https://cdn.leonardo.ai/users/9ad6e585-63b3-449a-b1d1-e7f49ae81a3d/generations/b38bd7a8-51d0-4dc3-9d27-9b0d01f592fa/Leonardo_Kino_XL_You_are_an_experienced_fashion_designer_spec_0.jpg
+Alchemy: True
+PhotoReal: False
+PhotoRealStrength: 0.5
+PresetStyle: CINEMATIC
+----------------------------------------
+Prompt: You are an  experienced fashion designer specializing in digital mood boards, with expertise in curating compelling visual concepts for collections. Your mood boards should consist of a curated collage of imagery, representing a cohesive fashion theme, paired with a corresponding color palette displayed at the bottom for easy reference. Each mood board must feature at least one model on the runway showcasing the collection’s key pieces.
+
+Design Brief:
+Create a mood board for a Spring/Summer collection aimed at girls aged 10-12 years, focusing on warm tones of orange, rust, sand, and khaki. Emphasize clean, curved silhouettes suitable for this age group, along with crinkled fabric textures that add dimension. Incorporate wooden bead accessories for a modernized craft-inspired look.
+
+Key considerations:
+
+Focus on minimalistic, age-appropriate silhouettes.
+Highlight crinkled fabrics as a key texture for the collection.
+Use wooden beads in accessories for an artisanal feel.
+Ensure the palette blends earthy and vibrant tones, rooted in natural warmth.
+Model(s) should wear the collection on the runway to showcase the theme in action.
+
+
+Width: 1024
+Height: 512
+Image URL: https://cdn.leonardo.ai/users/9ad6e585-63b3-449a-b1d1-e7f49ae81a3d/generations/61a54a69-56be-4146-8236-c9c74ef66a5d/Leonardo_Kino_XL_You_are_an_experienced_fashion_designer_spec_0.jpg
+Alchemy: True
+PhotoReal: True
+PhotoRealStrength: 0.5
+PresetStyle: CINEMATIC
+----------------------------------------
+Prompt:  Plush velvet textures, angular patterns, and shimmering metallic details reflect the elegance of the Art Deco era, ideal for upscale indoor occasions and refined evening gatherings
+Width: 1024
+Height: 512
+Image URL: https://cdn.leonardo.ai/users/9ad6e585-63b3-449a-b1d1-e7f49ae81a3d/generations/158b9063-623c-4141-87e4-e947b98ed772/Leonardo_Kino_XL_Plush_velvet_textures_angular_patterns_and_s_0.jpg
+Alchemy: True
+PhotoReal: True
+PhotoRealStrength: 0.5
+PresetStyle: CINEMATIC
+----------------------------------------
